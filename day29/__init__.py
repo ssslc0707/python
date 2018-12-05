@@ -1,0 +1,1 @@
+print('%(key)s'%{'key1':'value'})
