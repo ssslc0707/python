@@ -9,3 +9,5 @@ with open('test','w') as f:
 #shenmegui
 
 print(1)
+
+print(2)
