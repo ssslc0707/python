@@ -1,0 +1,6 @@
+2018-11-28 17:08:31,862 - root - WARNING - 警告错误
+2018-11-28 17:08:31,864 - root - ERROR - error message
+2018-11-28 17:08:31,865 - root - CRITICAL - critical message
+2018-11-28 18:17:00,846 - root - WARNING - 警告错误
+2018-11-28 18:17:00,846 - root - ERROR - error message
+2018-11-28 18:17:00,846 - root - CRITICAL - critical message
